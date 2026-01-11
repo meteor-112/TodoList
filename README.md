@@ -1,5 +1,7 @@
 # TodoList
 一個使用 Vue 3 與 Tailwind CSS 製作的待辦清單
+## Screenshot
+![preview](./screenshot.png)
 
 ## Features
 - 可以新增待辦事項，能選擇緊急度、重要度或填寫備註
